@@ -1,2 +1,24 @@
-# Saleswave
-Gerichte cold calling, Go-To-Market strategie en email campaigns die echt werken. Wij helpen B2B-bedrijven meer deals sluiten.
+{
+  "name": "saleswave-consulting",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "next": "^14.0.0",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.4",
+    "eslint": "^8.45.0",
+    "eslint-config-next": "^14.0.0"
+  }
+}
